@@ -1,7 +1,4 @@
-Value1: some-val
-Value2: another-val
-Bar: bar-value
-Foo: foo-value
-Info:
-    - Description: "a description"
-    - Url: "URL xyz"
+
+Values:
+    - Value1: some-val
+    - Value2: another-val
