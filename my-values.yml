@@ -1,6 +1,6 @@
 
 Values:
     Value1: some-val
-    Value2: another-val
+    Value2: "This App is good"
 ExternalConfig:
     Title: "This App is good"
