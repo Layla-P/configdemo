@@ -2,3 +2,5 @@
 Values:
     - Value1: some-val
     - Value2: another-val
+ExternalConfig:
+    - Title: "This App is good"
